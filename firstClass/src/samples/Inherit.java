@@ -19,7 +19,7 @@ public class Inherit {
 	public static void main(String[] args){
 	Sub a = new Sub(10);
 	System.out.println( a.a);
-//		here i go again
+//		mastering git flow
 	
 	}
 }
